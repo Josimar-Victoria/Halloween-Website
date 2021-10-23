@@ -7,6 +7,4 @@ Tiene diseños de tres colores (verde, rojo y negro)
 Desplazamiento suave en cada sección.
 Desarrollado primero con la metodología Mobile First, luego para escritorio.
 Compatible con todos los dispositivos móviles y con una interfaz de usuario hermosa y agradable.
-<img src='https://github.com/Josimar-Victoria/Halloween-Website/blob/main/assets/Captura%20de%20pantalla%20de%202021-10-22%2019-10-41.png?raw=true' alt='jsi'/>
-<img src='https://github.com/Josimar-Victoria/Halloween-Website/blob/main/assets/Captura%20de%20pantalla%20de%202021-10-22%2019-11-08.png?raw=true' alt='sjjs'/>
-<img src='https://github.com/Josimar-Victoria/Halloween-Website/blob/main/assets/Captura%20de%20pantalla%20de%202021-10-22%2019-11-12.png?raw=true' alt='kms'/>
+<img src='https://github.com/bedimcode/responsive-halloween-website/raw/main/preview.png' alt='jsi'/>
